@@ -8,7 +8,7 @@ package com.mu;
  * The response message containing the greetings
  * </pre>
  *
- * Protobuf type {@code api.UserRequest}
+ * Protobuf type {@code api.UserRequest}1
  */
 public  final class UserRequest extends
     com.google.protobuf.GeneratedMessageV3 implements
